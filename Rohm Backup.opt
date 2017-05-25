@@ -210,7 +210,7 @@ Frame[0]:=
 BEGIN
  Norm:="0130 0130 1359 0732";
  Min:="-001 -001";
- Path:="C:\Users\Artit\Documents\GitHub\Rohm Backup.cxp";
+ Path:="C:\Users\Artit\Documents\GitHub\test\Rohm Backup.cxp";
  Access:="PROJECT:!NewProject.Resources.NewResource1";
  Type:=8;
  Views:=
